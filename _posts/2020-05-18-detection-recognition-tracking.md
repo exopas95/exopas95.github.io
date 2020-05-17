@@ -3,7 +3,7 @@ layout: post
 title:  "Recongition vs Detection vs Tracking"
 date:   2020-05-18T14:25:52-05:00
 author: 엄세웅
-categories: dummy
+categories: CNN
 ---
 
 영상처리에서 자주 다루는 용어인 Recognition, Detection, Tracking 이 각각 어떤 것인지 알아보고
