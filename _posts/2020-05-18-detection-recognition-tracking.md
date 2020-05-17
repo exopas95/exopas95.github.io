@@ -2,7 +2,7 @@
 layout: post
 title:  "Recongition vs Detection vs Tracking"
 date:   2020-05-18T14:25:52-05:00
-author: 엄세웅
+author: TreeNulbo
 categories: CNN
 ---
 
