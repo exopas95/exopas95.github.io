@@ -28,4 +28,4 @@ recognition은 어떤 의미에서 **identification** 의 의미로 사용되기
 그렇다면 detection과 tracking의 차이점은 무엇일까? 근본적으로 detection은 영상에서 무언가를 **찾는** 것이지만 tracking은
 찾고자 하는 특정 대상의 **위치 변화**를 파악하는 것이다. Tracking은 영상 프레임들 사이의 시공간적 유사성 즉, 대상의 위치, 크기, 형태 등이 유사한 대상을 계속 추적하는 것이다. 이처럼 tracking은 detection 보다 사용할 수 있는 정보들이 많다. tracking 에서는
 대상의 위치, 크기, 형태을 정보로 가지고 있지만 detection은 그렇지 않다. 따라서 tracking 의 알고리즘이 detection 알고리즘 보다
-간단한 경우가 더 많다.
+간단한 경우가 더 많다. 
