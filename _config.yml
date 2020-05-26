@@ -9,17 +9,17 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
-name: Ben Centra
+title: TreeNulbo
+subtitle: "Blog of Slow Programming Developer"
+email: exopas58@gmail.com
+name: Sewoong Eum
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  Blog of Slow Programming Developer.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "https://exopas95.github.io/" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
 
@@ -78,8 +78,8 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
+    username: ""
+    url: ""
     desc: Follow me on Twitter
     share: true
 
@@ -92,15 +92,15 @@ social:
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url: https://github.com/bencentra
+    username: Sewoong Eum
+    url: https://github.com/exopas95
     desc: Fork me on GitHub
     share: false
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    username: Sewoong Eum
+    url: ""
     desc: Connect with me on LinkedIn
     share: true
 
