@@ -3,7 +3,7 @@ layout: post
 title:  "Recongition vs Detection vs Tracking"
 date:   2020-05-18T14:25:52-05:00
 author: TreeNulbo
-categories: Convolutional Neural Network
+categories: Convolutional-Neural-Network
 ---
 
 <div align="center">

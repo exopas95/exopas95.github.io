@@ -3,7 +3,7 @@ layout: post
 title:  "Supervised vs Unsupervised vs Reinforement Learning"
 date:   2020-06-13T10:06:52-05:00
 author: TreeNulbo
-categories: Convolutional Neural Network
+categories: Convolutional-Neural-Network
 ---
 
 <div align="center">
