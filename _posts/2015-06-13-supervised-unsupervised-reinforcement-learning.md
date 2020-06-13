@@ -6,9 +6,9 @@ author: TreeNulbo
 categories: Convolutional-Neural-Network
 ---
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/38775259/84570995-93ed7300-adcb-11ea-83b4-a6ea26238841.png" width="600", height="400"></img>
-</div>
+</div> -->
 
 
 머신 러닝의 학습 방법은 크게 세 가지인 **지도 학습, 비지도 학습, 강화 학습**으로 나뉜다. 머신 러닝을 배우면서 자주 등장하는
