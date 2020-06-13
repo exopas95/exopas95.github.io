@@ -5,11 +5,11 @@ date:   2020-06-13T10:06:52-05:00
 author: TreeNulbo
 categories: Convolutional-Neural-Network
 ---
-<html>
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/38775259/84569496-13764480-adc2-11ea-8a27-e89e772a3e5b.png" width="600", height="400"></img>
+  <img src="https://user-images.githubusercontent.com/38775259/84570995-93ed7300-adcb-11ea-83b4-a6ea26238841.png" width="600", height="400"></img>
 </div>
-</html>
+
 
 머신 러닝의 학습 방법은 크게 세 가지인 **지도 학습, 비지도 학습, 강화 학습**으로 나뉜다. 머신 러닝을 배우면서 자주 등장하는
 이 개념들은 각각 어떤 차이점들이 있을까? 이번 포스트에서는 머신 러닝의 세 가지 학습 방법 각각의 특징과 그 차이점을 
@@ -45,7 +45,8 @@ categories: Convolutional-Neural-Network
 비지도 학습은 **라벨(Label)**을 정해 정답을 알려주었던 지도 학습과는 다르게 별도의 라벨을 지정해주지 않는다. 즉 정답을 알려주지 않는 것이다. 아무런 정보가 없기 때문에 컴퓨터는 입력된 데이터의 특징을 보고 비슷한것 끼리 묶게 된다. 이렇게 라벨 없이 비슷한 것들 끼리 묶는 방법을 **군집화(Clustering)** 방법이라고 한다. 예를 들어 강아지, 고양이, 비둘기, 까치 사진으로 비지도 학습을 진행한다고 하자. 각 사진의 라벨을 알려주지 않았기 때문에 컴퓨터는 각 사진이 무엇인지 모른다. 하지만 이미지 형태를 기준으로 비지도 학습을 진행한다고 하면 강아지와 고양이, 비둘기와 까치로 분류가 될 것이다. 이렇게 특징에 따라 데이터를 분류하는 방법을 군집화 방법이라고 한다. 군집화 방법 이외에도 **K 평균 알고리즘, 밀도 추정 알고리즘**등 여러가지 방법이 존재한다. 
 <br>
 <br>
-대표적인 비지도학습 알고리즘
+
+**대표적인 비지도학습 알고리즘**
 - Clustering
 - K Means
 - Density Estimation
