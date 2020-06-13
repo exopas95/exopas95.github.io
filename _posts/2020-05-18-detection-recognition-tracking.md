@@ -5,10 +5,7 @@ date:   2020-05-18T14:25:52-05:00
 author: TreeNulbo
 categories: Convolutional-Neural-Network
 ---
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/38775259/84569441-8c28d100-adc1-11ea-84da-27ef0ee4a9b7.jpg" width="600", height="400"></img>
-</div>
+![eye-2771171_1920](https://user-images.githubusercontent.com/38775259/84571501-0ab24e00-ad83-11ea-8092-ed8c3cc3e78e.jpg)
 
 영상처리에서 자주 다루는 용어인 **Recognition, Detection, Tracking** 이 각각 어떤 것인지 알아보고
 그 차이는 무엇인지 기록하고자 한다. 매번 볼때마다 살짝 헷갈리는데 특히나 Detection과 Recognition이 주로 헷갈리는 분들이 많다.
